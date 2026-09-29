@@ -597,3 +597,6 @@ miniproject2.c
 ```
 
 This project is intended for learning and demonstrating Quick Sort, recursion, partitioning strategies, and basic algorithm-performance analysis in C.
+
+
+--Thanks for reading❤️
