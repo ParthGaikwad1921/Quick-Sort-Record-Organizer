@@ -199,14 +199,14 @@ gcc miniproject2.c -o miniproject2
 
 The following output demonstrates:
 
-- Adding eight student records
-- Displaying the records
-- Sorting by ID in ascending order
-- Sorting by marks in descending order
-- Sorting by name in ascending order
-- Viewing performance metrics
-- Comparing first, middle, and last pivot rules
-- Generating random, sorted, and reverse-sorted test data
+- Adding eight student records.
+- Displaying the records.
+- Sorting by ID in ascending order.
+- Sorting by marks in descending order.
+- Sorting by name in ascending order.
+- Viewing performance metrics.
+- Comparing first, middle, and last pivot rules.
+- Generating random, sorted, and reverse-sorted test data.
 
 <details>
 <summary><strong>View complete sample output</strong></summary>
