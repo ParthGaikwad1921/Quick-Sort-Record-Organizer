@@ -48,12 +48,12 @@ This project demonstrates the use of **partition-based divide and conquer** on s
 
 The project focuses on:
 
-- Understanding Quick Sort and its partitioning process
-- Implementing Quick Sort for records containing multiple fields
-- Selecting a sorting field and pivot rule at runtime
-- Understanding the recurrence-based analysis of Quick Sort
-- Comparing balanced and unbalanced partitions
-- Measuring comparisons, swaps, recursive calls, and recursion depth
+- Understanding Quick Sort and its partitioning process.
+- Implementing Quick Sort for records containing multiple fields.
+- Selecting a sorting field and pivot rule at runtime.
+- Understanding the recurrence-based analysis of Quick Sort.
+- Comparing balanced and unbalanced partitions.
+- Measuring comparisons, swaps, recursive calls, and recursion depth.
 
 For a subproblem of size `n`, Quick Sort can be expressed using the recurrence:
 
