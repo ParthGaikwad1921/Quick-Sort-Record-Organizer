@@ -589,6 +589,7 @@ For generated test data, the program runs the sort with all three pivot rules an
 | 2 | Sanskar Parab | `25102A0018` |
 | 3 | Arhan Khan | `25102A0005` |
 | 4 | Parth Naik | `25102A0006` |
+| 5 | Tejas Valunj | `25102A0007` |
 
 ## Project File
 
